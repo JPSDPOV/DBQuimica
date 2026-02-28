@@ -1,5 +1,555 @@
 {
     "topics": {
+        "Unidad 1: Clasificación periódica de los elementos": {
+            "questions": [
+                {
+                    "question": "Dado los átomos A, B, C, el átomo A tiene número atómico 34 y número de masa 78; el átomo B tiene 42 neutrones y es isóbaro de A; el átomo C es el isótopo de B e isótono de A. Determine el número de masa del átomo C y el orbital donde se encuentra más energético es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(36\\) y \\(4s^{2}\\)",
+                        "\\(80\\) y \\(6s^{2}\\)",
+                        "\\(80\\) y \\(4p^{6}\\)",
+                        "\\(36\\) y \\(4p^{4}\\)",
+                        "\\(44\\) y \\(6s^{2}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Conociendo la fórmula de la leche de magnesia (alto componente de magnesio), los números cuánticos del elemento con mayor porcentaje es:\nDatos: PA Mg=24, H=1, O=16, N=14",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "3, 0, 0, +1/2",
+                        "3, 1, 0, -1/2",
+                        "1, 0, 0, +1/2",
+                        "2, 1, 1, -1/2",
+                        "2, 1, 1, +1/2"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El elemento metálico de menor tamaño presenta número atómico igual a:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "17",
+                        "37",
+                        "33",
+                        "56",
+                        "19"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 2: Notación y nomenclatura de los compuestos químicos inorgánicos": {
+            "questions": [
+                {
+                    "question": "Un elemento metálico \"A\" forma un bromuro de fórmula ABr. La fórmula del elemento A es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(A(SO_{4})_{2}\\)",
+                        "\\(A_{3}(SO_{4})_{2}\\)",
+                        "\\(A(SO_{4})\\)",
+                        "\\(A_{2}(SO_{4})\\)",
+                        "\\(A_{2}(SO_{4})_{3}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 3: Enlaces químicos e interacción intermoleculares": {
+            "questions": [
+                {
+                    "question": "El compuesto que tiene enlaces covalentes, dativos e iónicos es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\((NH_{4})Cl\\)",
+                        "NaCl",
+                        "\\(CO_{2}\\)",
+                        "\\(H_{2}O\\)",
+                        "KBr"
+                    ],
+                    "answer": "a",
+                    "explicacion": "El cloruro de amonio (NH4Cl) presenta un enlace iónico entre el catión amonio (NH4+) y el anión cloruro (Cl-). Dentro del catión amonio, hay enlaces covalentes simples entre el nitrógeno y los hidrógenos, y uno de ellos es un enlace covalente coordinado (dativo) donde el nitrógeno aporta su par de electrones libres al ion H+.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Las principales fuerzas de atracción que deben vencer para evaporar el ácido acético, sublimar el yodo y fundir el cloruro de sodio respectivamente son:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "enlace iónico, dispersión de London, puente de hidrógeno",
+                        "dipolo-dipolo, dispersión de London, puente de hidrógeno",
+                        "puente de hidrógeno, dispersión de London, enlace iónico",
+                        "dispersión de London, enlace iónico, puente de hidrógeno",
+                        "dipolo-dipolo, enlace iónico, dispersión de London"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Las moléculas que presentan fuerza de atracción puente de hidrógeno entre sí, son:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "HCN",
+                        "\\(CH_{3}Br\\)",
+                        "\\(CH_{3}OH\\)",
+                        "\\(CH_{3}OCH_{3}\\)",
+                        "\\((C_{2}H_{3})_{3}N\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "[Pregunta 25 con texto dañado en el original] ... por enlaces entre elementos: I. \\(NH_{3}\\) II. \\(CO_{2}\\) ... \\(CH_{4}\\)",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "Opción A (Falta en el documento)",
+                        "Opción B (Falta en el documento)",
+                        "II y IV",
+                        "solo III",
+                        "I, II y III"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La relación de geometría de pares electrónicos y geometría molecular respectivamente es correcta en:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(H_{2}O\\) es tetraédrica y tetraédrica",
+                        "\\(BeCl_{2}\\) es angular y angular",
+                        "\\(NH_{3}\\) es tetraédrica y bipiramidal",
+                        "\\(PBr_{3}\\) es tetraédrica y piramidal trigonal",
+                        "\\(SeO_{2}\\) es trigonal plana y angular"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Con relación a la molécula \\(PCl_{5}\\), es correcto afirmar que:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "el átomo central cumple con la regla del octeto",
+                        "el fósforo utiliza orbitales híbridos \\(sp^{2}d\\)",
+                        "presenta cinco zonas electrónicas alrededor del átomo central",
+                        "tiene pares de electrones libres sobre el átomo central",
+                        "presenta distinta geometría electrónica y molecular"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 4: Reacciones químicas de los compuestos inorgánicos": {
+            "questions": [
+                {
+                    "question": "En la siguiente reacción: zinc + nitrato de magnesio + hidróxido de magnesio -> zincato de magnesio + amoniaco + agua, el coeficiente de balanceo del agente reductor es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "8",
+                        "1",
+                        "7",
+                        "2",
+                        "4"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 5: Estados de agregación de la materia": {
+            "questions": [
+                {
+                    "question": "2 gramos de un gas ocupan 1,56L a 25°C y 1 atm de presión, si el gas se calienta a 10°C sin modificar la presión, el volumen que ocupa es gas ideal es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "1,51 L",
+                        "2,18 L",
+                        "1,61 L",
+                        "5,6 L",
+                        "0,62 L"
+                    ],
+                    "answer": "e",
+                    "explicacion": "¡Atención aquí! Químicamente este ejercicio está mal planteado en el examen original. Para aplicar la Ley de Charles (V1/T1 = V2/T2), la temperatura SIEMPRE debe pasarse a Kelvin. Si lo hacemos bien, el volumen daría 1,48 L. Sin embargo, el autor del examen cometió el error de usar los grados Celsius directos: 1,56/25 = V2/10, lo que da como resultado 0,624 L. Se marca la E para coincidir con la matriz oficial (7E), pero es un error conceptual del examen.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Un recipiente de 5L contiene 1 mol de oxígeno y 2 moles de nitrógeno a 300 K. La temperatura se aumenta a 450 K sin cambiar el volumen. Suponiendo comportamiento ideal, la presión final del gas será:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "7,38 atm",
+                        "7,20 atm",
+                        "22,14 atm",
+                        "14,76 atm",
+                        "6,90 atm"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 6: Disoluciones y sus propiedades": {
+            "questions": [
+                {
+                    "question": "La normalidad de una solución preparada disolviendo 24,5g de permanganato de potasio hasta obtener 250mL de solución es:\nDatos: PA K=39, Mn=55, O=16",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "0,77 N",
+                        "1,55 N",
+                        "3,10 N",
+                        "0,62 N",
+                        "1,24 N"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El sistema que represente un coloide sólido disperso en líquido es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "gelatina en agua",
+                        "leche",
+                        "niebla",
+                        "espuma de jabón",
+                        "aerosol de perfume"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se cuenta con 3 soluciones de \\(H_{2}SO_{4}\\) de 1 litro cada una; de concentraciones iguales a 0,10 M, 0,20 M y 0,30 M, respectivamente; el volumen máximo de solución de concentración 0,22 M de \\(H_{2}SO_{4}\\) que se puede preparar con ellas, sin agregar más agua es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "3,0 L",
+                        "1,8 L",
+                        "5,0 L",
+                        "2,5 L",
+                        "1,25 L"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 7: Funciones de la química inorgánica": {
+            "questions": [
+                {
+                    "question": "La sal que en solución acuosa presentará características básicas es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "yoduro de potasio",
+                        "cloruro de sodio",
+                        "carbonato de potasio",
+                        "acetato de amonio",
+                        "cloruro de amonio"
+                    ],
+                    "answer": "c",
+                    "explicacion": "El carbonato de potasio (K2CO3) proviene de una base fuerte (KOH) y un ácido débil (H2CO3). Al disolverse en agua, el ion carbonato sufre hidrólisis produciendo iones OH-, lo que le da un carácter básico a la solución.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La solución que hará que el indicador de medio ácido reaccione es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\([H^{+}]=3,5\\times10^{-3}\\)",
+                        "\\([OH^{-}]=2,5\\times10^{-3}\\)",
+                        "\\([H^{+}]=1,5\\times10^{-13}\\)",
+                        "\\([OH^{-}]=1,2\\times10^{-4}\\)",
+                        "\\([H^{+}]=3,1\\times10^{-8}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La ecuación química que forma una especie que conduce débilmente la corriente eléctrica es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(NaCl+KNO_{3}\\)",
+                        "\\(K_{2}SO_{4}+CaCl_{2}\\)",
+                        "\\(NH_{3}+H_{2}O\\)",
+                        "\\(HI+Br_{2}\\)",
+                        "\\(AgNO_{3}+Nal\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se podrá formar una sal tribásica por la neutralización de:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido nítrico + hidróxido de áurico",
+                        "ácido carbónico + hidróxido férrico",
+                        "ácido hipocloroso + hidróxido estánnico",
+                        "ácido bórico + hidróxido de aluminio",
+                        "ácido pirobórico + hidróxido auroso"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 8: Estequiometria de composición y de reacción": {
+            "questions": [
+                {
+                    "question": "La fórmula mínima de un compuesto formado por 7 gramos de nitrógeno por cada gramo de hidrógeno es:\nDatos: PA H=1 g/mol; N=14 g/mol",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(NH_{3}\\)",
+                        "\\(NH\\)",
+                        "\\(NH_{2}\\)",
+                        "\\(N_{2}H_{3}\\)",
+                        "\\(NH_{4}\\)"
+                    ],
+                    "answer": "c",
+                    "explicacion": "Calculamos moles: 7g de N equivalen a 0.5 moles de N (7/14). 1g de H equivale a 1 mol de H (1/1). La relación N:H es 0.5 a 1, lo que simplificando en enteros es 1 a 2. La fórmula es NH2. \n⚠️ Nota: La matriz oficial marca la opción E (4E), lo cual es un error del examen ya que esa proporción no coincide con las masas dadas.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "100mL de una solución de H2SO4 contienen 3,65g del ácido, el número de equivalente gramo de H2SO4 que contiene la solución es:\nDatos: PA H=1, S=32, O=16",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "0,1500",
+                        "0,0744",
+                        "\\(7,44\\times10^{-3}\\)",
+                        "\\(1,5\\times10^{-2}\\)",
+                        "0,0372"
+                    ],
+                    "answer": "b",
+                    "explicacion": "Calculamos la masa molar del H2SO4 = 98 g/mol. Como el ácido sulfúrico tiene 2 hidrógenos sustituibles, su masa equivalente es 98 / 2 = 49 g/eq. Luego, dividimos la masa dada entre la masa equivalente: 3,65 g / 49 g/eq = 0,0744 equivalentes gramos.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "En la morfina además de otros sustituyentes hay 67,3% de carbono y 4,6% de nitrógeno, entre otros elementos; la proporción relativa de carbono a nitrógeno en el compuesto es:\nDatos: C=12g/mol N=14g/mol",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "5",
+                        "7",
+                        "1,5",
+                        "17",
+                        "12"
+                    ],
+                    "answer": "d",
+                    "explicacion": "Se dividen los porcentajes por sus respectivas masas atómicas para obtener los moles relativos: C = 67.3 / 12 = 5.608 moles. N = 4.6 / 14 = 0.328 moles. La proporción relativa (relación molar) se obtiene dividiendo el mayor por el menor: 5.608 / 0.328 = 17.1. La relación es 17 a 1.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El exceso de reactivo que queda sin reaccionar al mezclar 10 gramos de \\(Na_{2}SO_{4}\\) con la misma masa de \\(BaCl_{2}\\), es:\nDatos: PA Na=23, S=32, O=16, Ba=137, Cl=35,5",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "6,41g",
+                        "1,20g",
+                        "6,82g",
+                        "3,18g",
+                        "1,80g"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Para llevar a cabo de manera completa una reacción de precipitación, se requieren \\(3\\times10^{21}\\) unidades fórmula de iones \\(NO_{3}^{-}\\), la masa de nitrato de bario necesaria es:\nDatos: PA Ba=137 N=14, O=16",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(2.5\\times10^{-3}\\) gramos",
+                        "0,65 gramos",
+                        "\\(1,5\\times10^{21}\\) gramos",
+                        "1,3 gramos",
+                        "0,325 gramos"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Un óxido de bario de fórmula desconocida dio, después de un tratamiento controlado, 5g de BaO puro y 366 mL de oxígeno medidos a 273K y 1 atm de presión, la fórmula química y el peso inicial respectivamente, son:\nDatos: PA: Ba=137; O=16",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(BaO\\) y 5,52 g",
+                        "\\(Ba_{2}O\\) y 5,52 g",
+                        "\\(BaO_{2}\\) y 4,48 g",
+                        "\\(BaO_{2}\\) y 5,52 g",
+                        "\\(BaO\\) y 4,48 g"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La cantidad de hierro, en gramos, que se necesita para hacer reaccionar con ácido clorhídrico y así obtener cloruro de hierro (II) y 250,0 litros de hidrógeno a 25°C y 700 torr es:\nDatos: PA Fe=56, Cl=35,5, H=1",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "625",
+                        "740",
+                        "527",
+                        "416,7",
+                        "682,2"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La testosterona contiene C, H, O, con una composición porcentual de 9,72% de hidrógeno y 11,11% de oxígeno, cada molécula contiene 2 átomos de oxígeno, el peso fórmula de la hormona es:\nDatos: PA C=12, O=16, H=1",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "144 g/mol",
+                        "164 g/mol",
+                        "152 g/mol",
+                        "288 g/mol",
+                        "244 g/mol"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 9: Cinética química": {
+            "questions": [
+                {
+                    "question": "Para una determinada reacción, si se duplica la concentración inicial del reactivo A, su velocidad se multiplica por 8. La expresión de la velocidad con respecto a ese reactivo será:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(V=k\\)",
+                        "\\(V=k[A]^{3}\\)",
+                        "\\(V=k[A]\\)",
+                        "\\(V=k[A]^{2}\\)",
+                        "\\(V=k[A]^{4}\\)"
+                    ],
+                    "answer": "b",
+                    "explicacion": "La ecuación de velocidad es V = k[A]^n. Si la concentración se multiplica por 2 ([A] x 2) y la velocidad aumenta por un factor de 8, resolvemos 2^n = 8. Por lo tanto, el orden de reacción respecto a ese reactivo es n = 3.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El parámetro que aumenta la velocidad de reacción es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "aumento de la temperatura",
+                        "disminución de la concentración de reactivos",
+                        "disminución del orden de reacción",
+                        "disminución de la frecuencia de colisiones",
+                        "disminución de la entalpía de activación"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Para una reacción con los siguientes datos:\nExp. | V(mol/L.s) | (B)(mol/L) | (A)(mol/L)\n1 | 2.2x10^-4 | 0,01 | 0,01\n2 | 4.4x10^-4 | 0.01 | 0,02\n3 | 17.6x10^-4 | 0,02 | 0,02\nLa expresión de velocidad de la reacción será:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(V=K.[A].[B]^{2}\\)",
+                        "\\(V=K.[A].[B]\\)",
+                        "\\(V=K.[B]\\)",
+                        "\\(V=K.[A]^{2}.[B]\\)",
+                        "\\(V=K.[A]^{2}.[B]^{2}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 10: Equilibrio químico": {
+            "questions": [
+                {
+                    "question": "La saliva tiene un pH de 7,6, los moles de hidroxilos presentes en 4500 mililitros de saliva son:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\(2,51\\times10^{-7}\\) moles",
+                        "\\(1,13\\times10^{-7}\\) moles",
+                        "\\(3.98\\times10^{-8}\\) moles",
+                        "\\(1,79\\times10^{-6}\\) moles",
+                        "\\(1,00\\times10^{-7}\\) moles"
+                    ],
+                    "answer": "d",
+                    "explicacion": "Si el pH = 7.6, el pOH = 6.4 (14 - 7.6). La concentración de hidroxilos es [OH-] = 10^-6.4 = 3.98x10^-7 M. Multiplicando por el volumen en litros (4.5 L) obtenemos 1.79x10^-6 moles.\n⚠️ Nota: La matriz oficial da como correcta la opción B (5B), pero ese es el resultado si calculas los moles de PROTONES (H+), no de hidroxilos. Químicamente, la D es la correcta.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "En la reacción: \\(2 HI_{(g)} \\leftrightarrow H_{2(g)}+I_{2(g)}\\) a 448°C las presiones parciales de los gases en equilibrio son \\([HI]=4\\times10^{-3}\\) atm; \\([H_{2}]=7,5\\times10^{-3}\\) atm y \\([I_{2}]=4\\times10^{-5}\\) atm, la constante de equilibrio Kp, es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "0,04",
+                        "49,6",
+                        "0,02",
+                        "4,96",
+                        "\\(1\\times10^{-3}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Para restablecer el equilibrio químico de la reacción: \\(Zn_{(s)} + 2H^{+}_{(ac)} \\leftrightarrow Zn^{+2}_{(ac)} + H_{2(g)} + 350 J/mol\\) es correcto decir que:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "por agregado de hidrógeno se desplazará a la derecha",
+                        "por disminución de protones \\((H^{+})\\) se desplazará a la derecha",
+                        "por agregado de sal soluble de zinc permanece inalterado",
+                        "por disminución de la temperatura se desplazará a la derecha",
+                        "por agregado de zinc se desplaza a la izquierda"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
         "Unidad 11: Termodinámica y electroquímica": {
             "questions": [
                 {
@@ -14,7 +564,402 @@
                         "condensación del vapor de agua."
                     ],
                     "answer": "a",
-                    "explicacion": "La descomposición del carbonato de calcio es una reacción química que requiere la absorción continua de calor para romper los enlaces (proceso endotérmico). Las opciones b y e son cambios de estado físico, no reacciones químicas. Las opciones c y d son reacciones exotérmicas (liberan energía).",
+                    "explicacion": "La descomposición del carbonato de calcio es una reacción química que requiere la absorción continua de calor para romper los enlaces (proceso endotérmico). Las opciones b y e son cambios de estado físico. Las opciones c y d son reacciones exotérmicas.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La variación de entropía al fundirse 1 mol de hielo a 0°C y a la presión atmosférica, es:\nDatos: \\(C_{f}=5,98\\times10^{3} J/mol\\), PA: O=16, H=1",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "21.9 kJ/mol.K",
+                        "43,8 J/mol.K",
+                        "10.9 J/mol.K",
+                        "10,9 kJ/mol.K",
+                        "21.9 J/mol.K"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La opción que muestra una disminución de la entropía es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "disolución de cristales de azúcar en agua",
+                        "traslación de una molécula de oxígeno en el aire",
+                        "aumento de la presión sobre un gas ideal",
+                        "mezcla de dos gases inertes",
+                        "disociación de una molécula de hidrógeno"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 12: Características químicas de los compuestos y las reacciones orgánicas": {
+            "questions": [
+                {
+                    "question": "Los grupos funcionales presentes en la siguiente estructura son:\nOH\n-CH-CH-CH2-CH=CH2\nH3C-CH2-O\n-CH2-CH3",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "éster - alcohol - alqueno - acetal",
+                        "éster - alcohol - alquino - éter",
+                        "ácido - alcohol - alqueno - éter",
+                        "cetona - alcohol - alqueno - éter",
+                        "éster - alcohol - alqueno - éter"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La sustancia que no presenta pares de diastereoisómeros es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "2-cloro-3-butanol",
+                        "ácido 2-amino-3-hidroxi-butanoico",
+                        "2-cloro-3-metil-ciclopropano",
+                        "2,3-butanodiol",
+                        "2-bromo-3-cloro-pentano"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La siguiente secuencia de reacciones: 2-buteno + agua → producto A + permanganato de potasio → producto B + etanol, dando el 2-etil-2-butanol, respectivamente son:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "adición electrofílica - reducción - adición nucleofílica",
+                        "adición nucleofílica - oxidación - adición nucleofílica",
+                        "adición nucleofílica - reducción - adición electrofílica",
+                        "adición electrofílica - oxidación - adición nucleofílica",
+                        "adición electrofílica - oxidación - adición electrofílica"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La estructura presenta isomería:\n[Nota: Añadir imagen de la estructura de la molécula con Cl y Br del examen original]",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "cis",
+                        "trans",
+                        "E",
+                        "Z",
+                        "diasteroisómeros"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 13: Hidrocarburos alifáticos y aromáticos y compuestos heterocíclicos": {
+            "questions": [
+                {
+                    "question": "Para la reacción entre ciclopentino + agua; el mecanismo de reacción y el producto obtenido respectivamente son:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "adición electrofílica - enolización - ciclopentanol",
+                        "hidrólisis - ciclopentanol",
+                        "hidrólisis - 1,5-pentanodiol",
+                        "adición electrofílica - tautomerización - ciclopentanona",
+                        "sustitución nucleofílica - 2-ciclopentinol"
+                    ],
+                    "answer": "d",
+                    "explicacion": "La hidratación de un alquino (ciclopentino + agua) ocurre por un mecanismo de adición electrofílica. Primero se forma un enol inestable que rápidamente sufre tautomerización para convertirse en una cetona (ciclopentanona). \n⚠️ Nota: La matriz oficial marca la opción E (6E), lo cual es incorrecto, ya que no es una sustitución nucleofílica.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La reacción que podrá formar el ciclohexeno es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "eteno + 2-buteno",
+                        "ciclohexeno + hidrógeno",
+                        "benceno + hidrógeno",
+                        "eteno + 1,3-butadieno",
+                        "1,2-propadieno + 1,2-propadieno"
+                    ],
+                    "answer": "d",
+                    "explicacion": "Esta es la clásica reacción de Diels-Alder. Un dieno conjugado (1,3-butadieno) reacciona con un dienófilo (eteno) mediante una cicloadición para formar un anillo de seis miembros con un doble enlace, es decir, ciclohexeno.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La reacción que podrá obtenerse el 1,4-dicloro-2-buteno es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "1,3-butadieno + ácido clorhídrico",
+                        "2-buteno + cloro",
+                        "cloroeteno + cloroeteno",
+                        "cloroeteno + eteno",
+                        "1,3-butadieno + cloro"
+                    ],
+                    "answer": "e",
+                    "explicacion": "La adición de 1 mol de cloro (Cl2) al 1,3-butadieno (un dieno conjugado) puede darse por adición 1,2 o adición 1,4. La adición 1,4 es la que produce 1,4-dicloro-2-buteno.\n⚠️ Nota: La matriz oficial de respuestas marca la opción C (14C), lo cual es un error químico de la matriz.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La sustancia que podrá actuar mejor para una SN2 es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido propiónico",
+                        "ácido β-láctico",
+                        "3-cloro-pentano",
+                        "ácido pirúvico",
+                        "acetona"
+                    ],
+                    "answer": "c",
+                    "explicacion": "Las reacciones de Sustitución Nucleofílica Bimolecular (SN2) son características de los haluros de alquilo (derivados halogenados). De las opciones presentes, el 3-cloro-pentano es el único haluro de alquilo.\n⚠️ Nota: La matriz oficial de respuestas marca la opción D (ácido pirúvico), lo cual es un error grave de los elaboradores del examen.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La sustancia que reacciona fácilmente por una sustitución radicalaria con el cloro en presencia de luz es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "fenol",
+                        "nitrobenceno",
+                        "ácido benzoico",
+                        "tolueno",
+                        "o-catecol"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El producto de la reacción del 2-metil-ciclopenteno más ozono es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "5-oxo-hexanal",
+                        "2-metil-3-ciclopentanona",
+                        "3-metil-2-ciclopentanona",
+                        "3-metil-1,5-pentanodial",
+                        "2-metil-1,5-pentanodial"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 14: Funciones orgánicas con heteroátomos y enlaces simples": {
+            "questions": [
+                {
+                    "question": "El alcohol más soluble en el benceno es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "1-pentanol",
+                        "2-metil-1-propanol",
+                        "2-metil-2-propanol",
+                        "2-propanol",
+                        "etanol"
+                    ],
+                    "answer": "a",
+                    "explicacion": "El benceno es un solvente netamente apolar. Por regla general de solubilidad ('lo semejante disuelve a lo semejante'), los alcoholes con cadenas carbonadas más largas (más porción apolar o hidrofóbica) son más solubles en solventes apolares. El 1-pentanol tiene la cadena más larga (5 carbonos) de todas las opciones.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La especie ácida que podrá reaccionar con el hidróxido de sodio es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "etanol",
+                        "ciclohexano",
+                        "fenol",
+                        "anilina",
+                        "dietiléter"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Considerando como estructura al fenol, el agregado de un sustituyente y posición que disminuya fuertemente su acidez respectivamente es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "cloro y posición meta",
+                        "nitro y posición orto",
+                        "nitro y posición meta",
+                        "metil y posición orto",
+                        "amino y posición meta"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La reacción del 2-buteno con el ácido metacloroperbenzoico genera:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ozonido",
+                        "epoxido",
+                        "alcohol",
+                        "hemiacetal",
+                        "éter"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 15: Funciones orgánicas con heteroátomos y enlaces múltiples": {
+            "questions": [
+                {
+                    "question": "Por hidrólisis de β-butanolactona y β-propanolactama generan respectivamente:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido 3-amino-butanoico y ácido 3-hidroxi-propanoico",
+                        "ácido 3-hidroxi-butanoico y ácido 3-amino-propanoico",
+                        "3-hidroxi-butanal y 3-amino-propanal",
+                        "ácido 3-hidroxi-butanoato de metilo y ácido 3-amino-propanoato de metilo",
+                        "ácido 3-hidroxi-3-metil-butanoico y ácido 3-amino-propanoico"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El producto de la reacción del etanoato de etilo con el cloruro de etil magnesio es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "propanona",
+                        "propanal",
+                        "butanal",
+                        "pentanal",
+                        "3-pentanona"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El ácido y alcohol que son sólidos a temperatura ambiente (20°C) respectivamente son:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido oxálico y ter-butanol",
+                        "ácido valeriánico y 1-butanol",
+                        "ácido acético y etanol",
+                        "ácido fumárico y 2-propanol",
+                        "ácido oleico y ter-pentílico"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Por hidrólisis del anhídrido butenodioico genera:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido oxálico",
+                        "ácido maleico",
+                        "ácido oftálico",
+                        "ácido succínico",
+                        "ácido fumárico"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Si el compuesto presentado es tratado con hidruro de aluminio y litio, el producto obtenido será:\n[Nota: Añadir imagen del compuesto orgánico con $NH_{2}$ del examen original]",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "isómero de la treonina",
+                        "isómero de la serina",
+                        "ácido 2-amino-5-hidroxi-pentanoico",
+                        "ácido 2-hidroxi-5-amino-pentanoico",
+                        "2-amino-1,4-butanodiol"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                }
+            ]
+        },
+        "Unidad 16: Estructuras y propiedades de Biomoléculas fundamentales": {
+            "questions": [
+                {
+                    "question": "Las ceras están formadas por:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido graso de cadena larga + alcohol monohidroxílico de cadena corta",
+                        "ácido graso de cadena larga + alcohol polihidroxilado de cadena corta",
+                        "ácido graso de cadena corta + alcohol monohidroxilado del colesterol",
+                        "ácido graso de cadena larga + alcohol monohidroxílico de cadena larga",
+                        "alcohol polihidroxilado + alcohol polihidroxilado de cadena corta"
+                    ],
+                    "answer": "d",
+                    "explicacion": "Teóricamente, las ceras verdaderas son ésteres formados por un ácido graso de cadena larga y un alcohol monohidroxilado de cadena larga. \n⚠️ Nota 1: En el examen original la opción D repite por error de tipeo 'cadena corta', aquí fue corregida a su concepto teórico 'cadena larga'.\n⚠️ Nota 2: La matriz oficial marca la opción C (11C), lo cual es erróneo conceptualmente para la definición general de una cera simple.",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "La diferencia entre ribosa y desoxirribosa es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "OH",
+                        "COH",
+                        "O",
+                        "\\(CH_{2}OH\\)",
+                        "\\(H_{2}O\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Las ramificaciones del almidón presentan uniones del tipo:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "β-(1-6)",
+                        "α-(1-2)",
+                        "β-(1-4)",
+                        "α-(1-4)",
+                        "α-(1-6)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Un lípido complejo es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido graso superior",
+                        "triacilglicérido",
+                        "cerebrósido",
+                        "ceras",
+                        "aceites"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
                     "imageURLans": ""
                 }
             ]
