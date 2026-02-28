@@ -1,0 +1,23 @@
+{
+    "topics": {
+        "Unidad 11: Termodinámica y electroquímica": {
+            "questions": [
+                {
+                    "question": "La reacción química que corresponde a un proceso endotérmico es:",
+                    "year": "",
+                    "imageURL": "",
+                    "options": [
+                        "descomposición de carbonato de calcio.",
+                        "fusión del hielo.",
+                        "combustión del metano.",
+                        "neutralización del ácido clorhídrico con hidróxido de sodio.",
+                        "condensación del vapor de agua."
+                    ],
+                    "answer": "a",
+                    "explicacion": "La descomposición del carbonato de calcio es una reacción química que requiere la absorción continua de calor para romper los enlaces (proceso endotérmico). Las opciones b y e son cambios de estado físico, no reacciones químicas. Las opciones c y d son reacciones exotérmicas (liberan energía).",
+                    "imageURLans": ""
+                }
+            ]
+        }
+    }
+}
