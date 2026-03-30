@@ -52,7 +52,112 @@
         "Unidad 2: Notación y nomenclatura de los compuestos químicos inorgánicos": {
             "questions": [
                 {
-                    "question": "Un elemento metálico \"A\" forma un bromuro de fórmula ABr. La fórmula del elemento A es:",
+                    "question": "Los estados de oxidación del nitrógeno en las siguientes especies, \\((NH_{4})^{+}\\), \\(HNO_{3}\\) y \\(AlN\\) son respectivamente:",
+                    "year": "2016-2024",
+                    "imageURL": "",
+                    "options": [
+                        "\\(+4\\), \\(+4\\) y \\(-5\\)",
+                        "\\(+3\\), \\(+5\\) y \\(-3\\)",
+                        "\\(+2\\), \\(+4\\) y \\(+5\\)",
+                        "\\(-3\\), \\(+5\\) y \\(-3\\)",
+                        "\\(-1\\), \\(-3\\) y \\(+5\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El nombre de las siguientes fórmulas: \\(NH_{4}PO_{3}\\); \\(NaHS\\); \\(SrMnO_{4}\\), son respectivamente:",
+                    "year": "2016-2024",
+                    "imageURL": "",
+                    "options": [
+                        "Metafosfito de amonio, bisulfuro de sodio, manganato de estroncio",
+                        "Fosfato ácido de nitrógeno, sulfuro ácido de sodio, manganato de estroncio",
+                        "Metafosfato de amonio, sulfuro ácido de sodio, permanganato de estroncio",
+                        "Metafosfato de amonio, sulfuro ácido de sodio, manganato de estroncio",
+                        "Fosfato de amonio, sulfuro ácido de sodio, manganato de estroncio"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Los siguientes compuestos, permanganato de potasio, nitrato de calcio y borato de aluminio tienen como fórmula respectivamente: [1P 2017]",
+                    "year": "2017",
+                    "imageURL": "",
+                    "options": [
+                        "\\(K_{2}MnO_{4}, Ca(NO_{3})_{2}, AlBO_{3}\\)",
+                        "\\(KMnO_{4}, CaNO_{3}, Al_{3}BO_{3}\\)",
+                        "\\(KMnO_{4}, Ca(NO_{3})_{2}, AlBO_{3}\\)",
+                        "\\(KMnO_{4}, CaNO_{2}, AlBO_{3}\\)",
+                        "\\(KMnO_{4}, CaZnO_{2}, AlBO_{3}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "En los compuestos; cromato de potasio, ácido perbrómico y permanganato de sodio, los números de oxidación del cromo, bromo y manganeso respectivamente son: [FINAL 2017]",
+                    "year": "2017",
+                    "imageURL": "",
+                    "options": [
+                        "\\(+7, +3, +6\\)",
+                        "\\(+6, +5, +3\\)",
+                        "\\(+7, +1, +5\\)",
+                        "\\(+6, +2, +2\\)",
+                        "\\(+6, +7, +7\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Las siguientes fórmulas; \\([Fe(OH)_{2}]_{2}S\\), \\(Pb_{3}N_{2}\\), y \\(AlPO_{4}\\) tienen como nombre, respectivamente: [1P 2018]",
+                    "year": "2018",
+                    "imageURL": "",
+                    "options": [
+                        "Sulfuro biácido de hierro (III), nitruro de plomo (II) y fosfato biácido de aluminio",
+                        "Sulfuro bibásico de hierro (III), nitruro de plomo (II) y fosfato biácido de aluminio",
+                        "Sulfuro biácido de hierro (III), nitruro de plomo (II) y fosfato monoácido de hierro",
+                        "Sulfuro bibásico de hierro (III), nitruro de plomo (II) y fosfato biácido de aluminio",
+                        "Sulfuro tetrabásico de hierro (III), nitruro de plomo (II) y fosfato biácido de aluminio"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "En los compuestos: sulfato de potasio, ácido periódico y permanganato de sodio, los números de oxidación del átomo central respectivamente son: [FINAL 2018]",
+                    "year": "2018",
+                    "imageURL": "",
+                    "options": [
+                        "\\(+3, +6, +3\\)",
+                        "\\(+6, +5, +7\\)",
+                        "\\(+7, +1, +5\\)",
+                        "\\(+6, +2, +2\\)",
+                        "\\(+6, +7, +7\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Corresponde a un compuesto ternario: [1P 2019]",
+                    "year": "2019",
+                    "imageURL": "",
+                    "options": [
+                        "Nitrato de amonio",
+                        "Carbonato ácido de calcio",
+                        "Fosfato biácido de sodio",
+                        "Arseniato de calcio y potasio",
+                        "Sulfato básico de magnesio"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Un elemento metálico \"A\" forma un bromuro de fórmula \\(ABr\\). La fórmula del sulfato del elemento A es:",
                     "year": "2026",
                     "imageURL": "",
                     "options": [
@@ -61,6 +166,36 @@
                         "\\(A(SO_{4})\\)",
                         "\\(A_{2}(SO_{4})\\)",
                         "\\(A_{2}(SO_{4})_{3}\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "El compuesto que tiene enlaces covalentes, dativos e iónicos es:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "\\((NH_{4})Cl\\)",
+                        "\\(NaCl\\)",
+                        "\\(CO_{2}\\)",
+                        "\\(H_{2}O\\)",
+                        "\\(KBr\\)"
+                    ],
+                    "answer": "",
+                    "explicacion": "",
+                    "imageURLans": ""
+                },
+                {
+                    "question": "Se podrá formar una sal tribásica por la neutralización de:",
+                    "year": "2026",
+                    "imageURL": "",
+                    "options": [
+                        "ácido nítrico + hidróxido de áurico",
+                        "ácido carbónico + hidróxido férrico",
+                        "ácido hipocloroso + hidróxido estánnico",
+                        "ácido bórico + hidróxido de aluminio",
+                        "ácido pirobórico + hidróxido auroso"
                     ],
                     "answer": "",
                     "explicacion": "",
